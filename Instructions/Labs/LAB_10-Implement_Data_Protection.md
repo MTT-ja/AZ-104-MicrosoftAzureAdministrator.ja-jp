@@ -4,7 +4,7 @@ lab:
   module: Administer Data Protection
 ---
 
-# 課題 10 – データ保護を実装する
+# ラボ 10 – データ保護を実装する
 
 ## ラボ概要    
 
