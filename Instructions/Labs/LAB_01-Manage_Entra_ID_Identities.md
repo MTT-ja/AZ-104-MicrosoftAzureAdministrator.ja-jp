@@ -75,7 +75,7 @@ lab:
     | 設定 | 値 |
     | --- | --- |
     | メール | 自分のメール アドレス |
-    | [表示名] | your name |
+    | [表示名] | 自分の名前 |
     | 招待メッセージを送信する | **チェックボックスをオンにします** |
     | メッセージ | `Welcome to Azure and our group project` |
 
@@ -83,7 +83,7 @@ lab:
 
     | 設定 | Value |
     | --- | --- |
-    | Job title  | `IT Lab Administrator` |
+    | 役職  | `IT Lab Administrator` |
     | 部署  | `IT` |
     | 使用する場所 ([プロパティ] タブ) | **米国** |
 
